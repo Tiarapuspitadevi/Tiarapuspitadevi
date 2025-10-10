@@ -3,7 +3,7 @@
 
 - 🎓 Studi saya **Saya Mahasiswa baru Universitas Jendral Soedirman, Prodi Teknik Komputer 2025**
 
-- 🌱 Saat ini **Aku sedang belajar Pemograman C, Python dan C++**
+- 🌱 Saat ini **Saya sedang belajar Pemograman C, Python dan C++**
 
 - 🤔Bantuan **Saya mencari bantuan dengan Sosial Media, Aplikasi belajar dll**
 
